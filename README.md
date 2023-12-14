@@ -3,7 +3,7 @@
 <p>A fast learner with a professional, creative and opinionated personality, I have evolved as an adaptive, disciplined and organised team worker with excellent management
 and communication skills. I’ m constantly experimenting with new technologies and strive to improve myself as a Web Developer.
 </p>
-<h3>🔭 I’m currently working on Flip New Media.</h3>
+<h3>🔭 I’m currently working on Eshoped.</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntonisVlachovasilis&theme=radical&border_radius=4.4)](https://git.io/streak-stats)
 
